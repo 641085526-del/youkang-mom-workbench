@@ -1,0 +1,1052 @@
+{
+  "meta": {
+    "generated_at": "2026-10-11 14:50:48",
+    "generator": "crawl-mom-data.py v2.0",
+    "note": "仅保留真实行业信息：话题方向、品牌、品类、价格区间、平台。不含热度/销量/GMV/地域等任何模拟数据。真实热搜数据由 crawl-platforms.py 抓取抖音/快手。"
+  },
+  "categories": [
+    "其他",
+    "喂养用品",
+    "奶粉",
+    "妈妈",
+    "洗护",
+    "游泳相关",
+    "玩具早教",
+    "穿搭",
+    "童车安全",
+    "纸尿裤",
+    "辅食"
+  ],
+  "topics": [
+    {
+      "keyword": "宝宝辅食怎么做",
+      "category": "辅食"
+    },
+    {
+      "keyword": "婴儿奶粉怎么选",
+      "category": "奶粉"
+    },
+    {
+      "keyword": "母乳喂养技巧",
+      "category": "喂养"
+    },
+    {
+      "keyword": "宝宝厌奶期怎么办",
+      "category": "喂养"
+    },
+    {
+      "keyword": "辅食添加顺序表",
+      "category": "辅食"
+    },
+    {
+      "keyword": "宝宝奶粉转奶",
+      "category": "奶粉"
+    },
+    {
+      "keyword": "宝宝湿疹护理",
+      "category": "洗护"
+    },
+    {
+      "keyword": "婴儿便秘怎么办",
+      "category": "健康"
+    },
+    {
+      "keyword": "宝宝发烧物理降温",
+      "category": "健康"
+    },
+    {
+      "keyword": "小儿推拿教程",
+      "category": "健康"
+    },
+    {
+      "keyword": "婴儿肠绞痛缓解",
+      "category": "健康"
+    },
+    {
+      "keyword": "宝宝补维生素D",
+      "category": "健康"
+    },
+    {
+      "keyword": "纸尿裤测评红黑榜",
+      "category": "纸尿裤"
+    },
+    {
+      "keyword": "宝宝睡眠训练",
+      "category": "护理"
+    },
+    {
+      "keyword": "婴儿抚触手法",
+      "category": "护理"
+    },
+    {
+      "keyword": "宝宝洗澡注意事项",
+      "category": "护理"
+    },
+    {
+      "keyword": "新生儿脐带护理",
+      "category": "护理"
+    },
+    {
+      "keyword": "宝宝早教启蒙",
+      "category": "早教"
+    },
+    {
+      "keyword": "宝宝学说话黄金期",
+      "category": "早教"
+    },
+    {
+      "keyword": "亲子绘本推荐",
+      "category": "早教"
+    },
+    {
+      "keyword": "幼儿园择校攻略",
+      "category": "早教"
+    },
+    {
+      "keyword": "感统训练在家做",
+      "category": "早教"
+    },
+    {
+      "keyword": "婴儿推车选购指南",
+      "category": "童车安全"
+    },
+    {
+      "keyword": "安全座椅怎么选",
+      "category": "童车安全"
+    },
+    {
+      "keyword": "婴儿床有必要买吗",
+      "category": "用品"
+    },
+    {
+      "keyword": "恒温调奶器推荐",
+      "category": "喂养用品"
+    },
+    {
+      "keyword": "辅食机测评",
+      "category": "喂养用品"
+    },
+    {
+      "keyword": "宝宝秋季穿搭",
+      "category": "穿搭"
+    },
+    {
+      "keyword": "婴儿鞋怎么选",
+      "category": "穿搭"
+    },
+    {
+      "keyword": "亲子装搭配",
+      "category": "穿搭"
+    },
+    {
+      "keyword": "产后恢复训练",
+      "category": "妈妈"
+    },
+    {
+      "keyword": "哺乳期饮食",
+      "category": "妈妈"
+    },
+    {
+      "keyword": "产后瘦身方法",
+      "category": "妈妈"
+    },
+    {
+      "keyword": "背奶妈妈攻略",
+      "category": "妈妈"
+    },
+    {
+      "keyword": "哺乳内衣推荐",
+      "category": "妈妈"
+    },
+    {
+      "keyword": "婴儿游泳的好处",
+      "category": "游泳"
+    },
+    {
+      "keyword": "亲子游泳课程",
+      "category": "游泳"
+    },
+    {
+      "keyword": "宝宝水育早教",
+      "category": "游泳"
+    },
+    {
+      "keyword": "新生儿游泳水温",
+      "category": "游泳"
+    },
+    {
+      "keyword": "婴儿游泳注意事项",
+      "category": "游泳"
+    },
+    {
+      "keyword": "宝宝洗澡游泳一体",
+      "category": "游泳"
+    },
+    {
+      "keyword": "新手妈妈带娃清单",
+      "category": "育儿"
+    },
+    {
+      "keyword": "宝宝春季长高",
+      "category": "育儿"
+    },
+    {
+      "keyword": "宝宝睡眠倒退期",
+      "category": "护理"
+    },
+    {
+      "keyword": "宝宝发烧咳嗽食疗",
+      "category": "健康"
+    },
+    {
+      "keyword": "宝宝辅食过敏",
+      "category": "辅食"
+    },
+    {
+      "keyword": "断奶后奶粉选择",
+      "category": "奶粉"
+    },
+    {
+      "keyword": "宝宝断夜奶方法",
+      "category": "喂养"
+    },
+    {
+      "keyword": "奶粉冲调正确步骤",
+      "category": "喂养"
+    },
+    {
+      "keyword": "宝宝出牙护理",
+      "category": "健康"
+    },
+    {
+      "keyword": "新生儿黄疸护理",
+      "category": "健康"
+    },
+    {
+      "keyword": "婴儿囟门护理",
+      "category": "护理"
+    },
+    {
+      "keyword": "宝宝爬行期安全",
+      "category": "育儿"
+    },
+    {
+      "keyword": "宝宝专注力训练",
+      "category": "早教"
+    },
+    {
+      "keyword": "儿童安全座椅法规",
+      "category": "童车安全"
+    },
+    {
+      "keyword": "宝宝冬季保暖穿搭",
+      "category": "穿搭"
+    },
+    {
+      "keyword": "产后盆底肌修复",
+      "category": "妈妈"
+    }
+  ],
+  "products": [
+    {
+      "name": "帮宝适一级帮纸尿裤 L码",
+      "brand": "帮宝适",
+      "category": "纸尿裤",
+      "price_min": 109,
+      "price_max": 169,
+      "platform": "抖音"
+    },
+    {
+      "name": "花王妙而舒纸尿裤 M码",
+      "brand": "花王",
+      "category": "纸尿裤",
+      "price_min": 119,
+      "price_max": 179,
+      "platform": "淘宝"
+    },
+    {
+      "name": "大王天使系列纸尿裤 L码",
+      "brand": "大王",
+      "category": "纸尿裤",
+      "price_min": 129,
+      "price_max": 199,
+      "platform": "京东"
+    },
+    {
+      "name": "好奇金装纸尿裤 XL码",
+      "brand": "好奇",
+      "category": "纸尿裤",
+      "price_min": 99,
+      "price_max": 159,
+      "platform": "抖音"
+    },
+    {
+      "name": "尤妮佳moony皇家系列 S码",
+      "brand": "尤妮佳",
+      "category": "纸尿裤",
+      "price_min": 139,
+      "price_max": 209,
+      "platform": "淘宝"
+    },
+    {
+      "name": "帮宝适黑金帮纸尿裤 M码",
+      "brand": "帮宝适",
+      "category": "纸尿裤",
+      "price_min": 159,
+      "price_max": 229,
+      "platform": "京东"
+    },
+    {
+      "name": "好奇小森林纸尿裤 L码",
+      "brand": "好奇",
+      "category": "纸尿裤",
+      "price_min": 129,
+      "price_max": 189,
+      "platform": "抖音"
+    },
+    {
+      "name": "大王光羽系列纸尿裤 XL码",
+      "brand": "大王",
+      "category": "纸尿裤",
+      "price_min": 179,
+      "price_max": 259,
+      "platform": "京东"
+    },
+    {
+      "name": "babycare皇室弱酸纸尿裤",
+      "brand": "babycare",
+      "category": "纸尿裤",
+      "price_min": 119,
+      "price_max": 179,
+      "platform": "抖音"
+    },
+    {
+      "name": "露安适婴儿纸尿裤 M码",
+      "brand": "露安适",
+      "category": "纸尿裤",
+      "price_min": 139,
+      "price_max": 199,
+      "platform": "淘宝"
+    },
+    {
+      "name": "飞鹤星飞帆3段奶粉 900g",
+      "brand": "飞鹤",
+      "category": "奶粉",
+      "price_min": 258,
+      "price_max": 338,
+      "platform": "淘宝"
+    },
+    {
+      "name": "爱他美卓萃3段奶粉 800g",
+      "brand": "爱他美",
+      "category": "奶粉",
+      "price_min": 308,
+      "price_max": 398,
+      "platform": "京东"
+    },
+    {
+      "name": "美素佳儿金装3段奶粉 900g",
+      "brand": "美素佳儿",
+      "category": "奶粉",
+      "price_min": 268,
+      "price_max": 348,
+      "platform": "淘宝"
+    },
+    {
+      "name": "A2至初3段奶粉 900g",
+      "brand": "A2",
+      "category": "奶粉",
+      "price_min": 358,
+      "price_max": 458,
+      "platform": "京东"
+    },
+    {
+      "name": "惠氏启赋蕴萃3段 900g",
+      "brand": "惠氏",
+      "category": "奶粉",
+      "price_min": 388,
+      "price_max": 488,
+      "platform": "京东"
+    },
+    {
+      "name": "合生元派星3段奶粉 900g",
+      "brand": "合生元",
+      "category": "奶粉",
+      "price_min": 288,
+      "price_max": 368,
+      "platform": "淘宝"
+    },
+    {
+      "name": "伊利金领冠珍护3段 800g",
+      "brand": "伊利",
+      "category": "奶粉",
+      "price_min": 228,
+      "price_max": 298,
+      "platform": "抖音"
+    },
+    {
+      "name": "君乐宝至臻3段奶粉 800g",
+      "brand": "君乐宝",
+      "category": "奶粉",
+      "price_min": 198,
+      "price_max": 268,
+      "platform": "抖音"
+    },
+    {
+      "name": "美赞臣蓝臻3段奶粉 900g",
+      "brand": "美赞臣",
+      "category": "奶粉",
+      "price_min": 328,
+      "price_max": 428,
+      "platform": "京东"
+    },
+    {
+      "name": "皇家美素佳儿1段 800g",
+      "brand": "美素佳儿",
+      "category": "奶粉",
+      "price_min": 338,
+      "price_max": 438,
+      "platform": "淘宝"
+    },
+    {
+      "name": "飞鹤臻稚有机3段 750g",
+      "brand": "飞鹤",
+      "category": "奶粉",
+      "price_min": 328,
+      "price_max": 428,
+      "platform": "淘宝"
+    },
+    {
+      "name": "贝因美爱加3段奶粉 800g",
+      "brand": "贝因美",
+      "category": "奶粉",
+      "price_min": 168,
+      "price_max": 238,
+      "platform": "抖音"
+    },
+    {
+      "name": "亨氏婴儿米粉 225g",
+      "brand": "亨氏",
+      "category": "辅食",
+      "price_min": 35,
+      "price_max": 55,
+      "platform": "淘宝"
+    },
+    {
+      "name": "小皮高铁米粉 225g",
+      "brand": "小皮",
+      "category": "辅食",
+      "price_min": 55,
+      "price_max": 79,
+      "platform": "抖音"
+    },
+    {
+      "name": "嘉宝原味米粉 225g",
+      "brand": "嘉宝",
+      "category": "辅食",
+      "price_min": 45,
+      "price_max": 65,
+      "platform": "淘宝"
+    },
+    {
+      "name": "方广猪肝粉辅食 30g",
+      "brand": "方广",
+      "category": "辅食",
+      "price_min": 39,
+      "price_max": 59,
+      "platform": "京东"
+    },
+    {
+      "name": "亨氏水果泥 120g",
+      "brand": "亨氏",
+      "category": "辅食",
+      "price_min": 15,
+      "price_max": 25,
+      "platform": "淘宝"
+    },
+    {
+      "name": "小皮有机果泥 100g",
+      "brand": "小皮",
+      "category": "辅食",
+      "price_min": 25,
+      "price_max": 35,
+      "platform": "抖音"
+    },
+    {
+      "name": "英氏宝宝面条",
+      "brand": "英氏",
+      "category": "辅食",
+      "price_min": 25,
+      "price_max": 45,
+      "platform": "淘宝"
+    },
+    {
+      "name": "秋田满满宝宝辅食粥",
+      "brand": "秋田满满",
+      "category": "辅食",
+      "price_min": 39,
+      "price_max": 59,
+      "platform": "抖音"
+    },
+    {
+      "name": "贝亲婴儿润肤露",
+      "brand": "贝亲",
+      "category": "洗护",
+      "price_min": 39,
+      "price_max": 69,
+      "platform": "淘宝"
+    },
+    {
+      "name": "艾惟诺燕麦润肤乳",
+      "brand": "艾惟诺",
+      "category": "洗护",
+      "price_min": 79,
+      "price_max": 119,
+      "platform": "京东"
+    },
+    {
+      "name": "松达婴儿山茶油霜",
+      "brand": "松达",
+      "category": "洗护",
+      "price_min": 59,
+      "price_max": 89,
+      "platform": "抖音"
+    },
+    {
+      "name": "强生婴儿洗发沐浴露",
+      "brand": "强生",
+      "category": "洗护",
+      "price_min": 29,
+      "price_max": 49,
+      "platform": "淘宝"
+    },
+    {
+      "name": "贝亲婴儿洗发精",
+      "brand": "贝亲",
+      "category": "洗护",
+      "price_min": 35,
+      "price_max": 55,
+      "platform": "淘宝"
+    },
+    {
+      "name": "红色小象婴儿面霜",
+      "brand": "红色小象",
+      "category": "洗护",
+      "price_min": 39,
+      "price_max": 69,
+      "platform": "抖音"
+    },
+    {
+      "name": "郁美净儿童霜",
+      "brand": "郁美净",
+      "category": "洗护",
+      "price_min": 12,
+      "price_max": 22,
+      "platform": "淘宝"
+    },
+    {
+      "name": "mustela妙思乐润肤乳",
+      "brand": "mustela",
+      "category": "洗护",
+      "price_min": 129,
+      "price_max": 199,
+      "platform": "京东"
+    },
+    {
+      "name": "贝亲宽口径玻璃奶瓶 240ml",
+      "brand": "贝亲",
+      "category": "喂养用品",
+      "price_min": 79,
+      "price_max": 119,
+      "platform": "淘宝"
+    },
+    {
+      "name": "hegenPPSU奶瓶 240ml",
+      "brand": "hegen",
+      "category": "喂养用品",
+      "price_min": 229,
+      "price_max": 299,
+      "platform": "京东"
+    },
+    {
+      "name": "babycarePPSU奶瓶 240ml",
+      "brand": "babycare",
+      "category": "喂养用品",
+      "price_min": 89,
+      "price_max": 139,
+      "platform": "抖音"
+    },
+    {
+      "name": "新安怡宽口径奶瓶",
+      "brand": "新安怡",
+      "category": "喂养用品",
+      "price_min": 99,
+      "price_max": 159,
+      "platform": "淘宝"
+    },
+    {
+      "name": "世喜学饮杯",
+      "brand": "世喜",
+      "category": "喂养用品",
+      "price_min": 89,
+      "price_max": 129,
+      "platform": "抖音"
+    },
+    {
+      "name": "小白熊恒温调奶器",
+      "brand": "小白熊",
+      "category": "喂养用品",
+      "price_min": 159,
+      "price_max": 259,
+      "platform": "京东"
+    },
+    {
+      "name": "babycare辅食机",
+      "brand": "babycare",
+      "category": "喂养用品",
+      "price_min": 199,
+      "price_max": 299,
+      "platform": "抖音"
+    },
+    {
+      "name": "美德乐电动吸奶器",
+      "brand": "美德乐",
+      "category": "喂养用品",
+      "price_min": 899,
+      "price_max": 1299,
+      "platform": "京东"
+    },
+    {
+      "name": "贝亲安抚奶嘴",
+      "brand": "贝亲",
+      "category": "喂养用品",
+      "price_min": 25,
+      "price_max": 45,
+      "platform": "淘宝"
+    },
+    {
+      "name": "可优比宝宝餐具套装",
+      "brand": "可优比",
+      "category": "喂养用品",
+      "price_min": 69,
+      "price_max": 109,
+      "platform": "抖音"
+    },
+    {
+      "name": "好孩子婴儿推车",
+      "brand": "好孩子",
+      "category": "童车安全",
+      "price_min": 899,
+      "price_max": 1599,
+      "platform": "京东"
+    },
+    {
+      "name": "昆塔斯Q1轻便推车",
+      "brand": "昆塔斯",
+      "category": "童车安全",
+      "price_min": 1599,
+      "price_max": 2599,
+      "platform": "淘宝"
+    },
+    {
+      "name": "CybexSirona安全座椅",
+      "brand": "Cybex",
+      "category": "童车安全",
+      "price_min": 2999,
+      "price_max": 3999,
+      "platform": "京东"
+    },
+    {
+      "name": "宝得适双面骑士安全座椅",
+      "brand": "宝得适",
+      "category": "童车安全",
+      "price_min": 2599,
+      "price_max": 3599,
+      "platform": "京东"
+    },
+    {
+      "name": "好孩子安全座椅",
+      "brand": "好孩子",
+      "category": "童车安全",
+      "price_min": 899,
+      "price_max": 1599,
+      "platform": "淘宝"
+    },
+    {
+      "name": "逸乐途婴儿推车",
+      "brand": "逸乐途",
+      "category": "童车安全",
+      "price_min": 1299,
+      "price_max": 1999,
+      "platform": "抖音"
+    },
+    {
+      "name": "虎贝尔S1婴儿车",
+      "brand": "虎贝尔",
+      "category": "童车安全",
+      "price_min": 1699,
+      "price_max": 2599,
+      "platform": "淘宝"
+    },
+    {
+      "name": "巧儿宜安全座椅",
+      "brand": "巧儿宜",
+      "category": "童车安全",
+      "price_min": 1599,
+      "price_max": 2399,
+      "platform": "京东"
+    },
+    {
+      "name": "费雪安抚海马",
+      "brand": "费雪",
+      "category": "玩具早教",
+      "price_min": 89,
+      "price_max": 139,
+      "platform": "淘宝"
+    },
+    {
+      "name": "乐高得宝积木",
+      "brand": "乐高",
+      "category": "玩具早教",
+      "price_min": 199,
+      "price_max": 399,
+      "platform": "京东"
+    },
+    {
+      "name": "hape木质积木",
+      "brand": "hape",
+      "category": "玩具早教",
+      "price_min": 159,
+      "price_max": 259,
+      "platform": "抖音"
+    },
+    {
+      "name": "伟易达学习机",
+      "brand": "伟易达",
+      "category": "玩具早教",
+      "price_min": 299,
+      "price_max": 499,
+      "platform": "京东"
+    },
+    {
+      "name": "火火兔早教机",
+      "brand": "火火兔",
+      "category": "玩具早教",
+      "price_min": 199,
+      "price_max": 299,
+      "platform": "抖音"
+    },
+    {
+      "name": "谷雨游戏桌",
+      "brand": "谷雨",
+      "category": "玩具早教",
+      "price_min": 259,
+      "price_max": 399,
+      "platform": "淘宝"
+    },
+    {
+      "name": "曼龙婴儿围栏",
+      "brand": "曼龙",
+      "category": "玩具早教",
+      "price_min": 399,
+      "price_max": 699,
+      "platform": "京东"
+    },
+    {
+      "name": "可优比爬行垫",
+      "brand": "可优比",
+      "category": "玩具早教",
+      "price_min": 199,
+      "price_max": 359,
+      "platform": "抖音"
+    },
+    {
+      "name": "澳贝手摇铃",
+      "brand": "澳贝",
+      "category": "玩具早教",
+      "price_min": 29,
+      "price_max": 49,
+      "platform": "淘宝"
+    },
+    {
+      "name": "牛听听早教机",
+      "brand": "牛听听",
+      "category": "玩具早教",
+      "price_min": 399,
+      "price_max": 599,
+      "platform": "京东"
+    },
+    {
+      "name": "巴拉巴拉婴儿连体衣",
+      "brand": "巴拉巴拉",
+      "category": "穿搭",
+      "price_min": 59,
+      "price_max": 99,
+      "platform": "淘宝"
+    },
+    {
+      "name": "优衣库婴儿包屁衣",
+      "brand": "优衣库",
+      "category": "穿搭",
+      "price_min": 39,
+      "price_max": 79,
+      "platform": "淘宝"
+    },
+    {
+      "name": "戴维贝拉童装套装",
+      "brand": "戴维贝拉",
+      "category": "穿搭",
+      "price_min": 129,
+      "price_max": 259,
+      "platform": "抖音"
+    },
+    {
+      "name": "英氏婴儿内衣",
+      "brand": "英氏",
+      "category": "穿搭",
+      "price_min": 79,
+      "price_max": 139,
+      "platform": "京东"
+    },
+    {
+      "name": "全棉时代婴儿纱布衣",
+      "brand": "全棉时代",
+      "category": "穿搭",
+      "price_min": 89,
+      "price_max": 159,
+      "platform": "抖音"
+    },
+    {
+      "name": "童泰婴儿连体衣",
+      "brand": "童泰",
+      "category": "穿搭",
+      "price_min": 49,
+      "price_max": 89,
+      "platform": "淘宝"
+    },
+    {
+      "name": "马克珍妮童装",
+      "brand": "马克珍妮",
+      "category": "穿搭",
+      "price_min": 159,
+      "price_max": 299,
+      "platform": "京东"
+    },
+    {
+      "name": "迪士尼宝宝连体衣",
+      "brand": "迪士尼",
+      "category": "穿搭",
+      "price_min": 69,
+      "price_max": 129,
+      "platform": "抖音"
+    },
+    {
+      "name": "美德乐哺乳文胸",
+      "brand": "美德乐",
+      "category": "妈妈",
+      "price_min": 199,
+      "price_max": 329,
+      "platform": "京东"
+    },
+    {
+      "name": "嫚熙哺乳衣",
+      "brand": "嫚熙",
+      "category": "妈妈",
+      "price_min": 129,
+      "price_max": 219,
+      "platform": "抖音"
+    },
+    {
+      "name": "十月结晶待产包",
+      "brand": "十月结晶",
+      "category": "妈妈",
+      "price_min": 129,
+      "price_max": 199,
+      "platform": "淘宝"
+    },
+    {
+      "name": "子初产褥垫",
+      "brand": "子初",
+      "category": "妈妈",
+      "price_min": 39,
+      "price_max": 69,
+      "platform": "淘宝"
+    },
+    {
+      "name": "全棉时代产后护理套装",
+      "brand": "全棉时代",
+      "category": "妈妈",
+      "price_min": 89,
+      "price_max": 159,
+      "platform": "抖音"
+    },
+    {
+      "name": "babycare妈妈包",
+      "brand": "babycare",
+      "category": "妈妈",
+      "price_min": 159,
+      "price_max": 259,
+      "platform": "抖音"
+    },
+    {
+      "name": "兰思诺乳头霜",
+      "brand": "兰思诺",
+      "category": "妈妈",
+      "price_min": 69,
+      "price_max": 109,
+      "platform": "京东"
+    },
+    {
+      "name": "犬印盆骨带",
+      "brand": "犬印",
+      "category": "妈妈",
+      "price_min": 199,
+      "price_max": 329,
+      "platform": "淘宝"
+    },
+    {
+      "name": "苏泊尔婴儿游泳圈 腋下圈",
+      "brand": "苏泊尔",
+      "category": "游泳相关",
+      "price_min": 39,
+      "price_max": 69,
+      "platform": "淘宝"
+    },
+    {
+      "name": "大王游泳纸尿裤",
+      "brand": "大王",
+      "category": "游泳相关",
+      "price_min": 49,
+      "price_max": 79,
+      "platform": "抖音"
+    },
+    {
+      "name": "全棉时代婴儿浴巾",
+      "brand": "全棉时代",
+      "category": "游泳相关",
+      "price_min": 89,
+      "price_max": 149,
+      "platform": "淘宝"
+    },
+    {
+      "name": "可优比婴儿水温计",
+      "brand": "可优比",
+      "category": "游泳相关",
+      "price_min": 19,
+      "price_max": 39,
+      "platform": "淘宝"
+    },
+    {
+      "name": "arena婴儿泳帽",
+      "brand": "arena",
+      "category": "游泳相关",
+      "price_min": 39,
+      "price_max": 79,
+      "platform": "京东"
+    },
+    {
+      "name": "迪卡侬亲子游泳浮板",
+      "brand": "迪卡侬",
+      "category": "游泳相关",
+      "price_min": 59,
+      "price_max": 109,
+      "platform": "淘宝"
+    },
+    {
+      "name": "巴拉巴拉宝宝泳衣",
+      "brand": "巴拉巴拉",
+      "category": "游泳相关",
+      "price_min": 79,
+      "price_max": 139,
+      "platform": "抖音"
+    },
+    {
+      "name": "好孩子婴儿洗澡盆",
+      "brand": "好孩子",
+      "category": "游泳相关",
+      "price_min": 99,
+      "price_max": 169,
+      "platform": "京东"
+    },
+    {
+      "name": "英利浦家用恒温泳池",
+      "brand": "英利浦",
+      "category": "游泳相关",
+      "price_min": 599,
+      "price_max": 999,
+      "platform": "京东"
+    },
+    {
+      "name": "speedo儿童泳镜",
+      "brand": "speedo",
+      "category": "游泳相关",
+      "price_min": 89,
+      "price_max": 159,
+      "platform": "京东"
+    },
+    {
+      "name": "全棉时代婴儿湿巾 80抽",
+      "brand": "全棉时代",
+      "category": "其他",
+      "price_min": 25,
+      "price_max": 45,
+      "platform": "淘宝"
+    },
+    {
+      "name": "可心柔柔纸巾",
+      "brand": "可心柔",
+      "category": "其他",
+      "price_min": 15,
+      "price_max": 25,
+      "platform": "抖音"
+    },
+    {
+      "name": "贝亲宝宝专用洗衣液",
+      "brand": "贝亲",
+      "category": "其他",
+      "price_min": 35,
+      "price_max": 59,
+      "platform": "淘宝"
+    },
+    {
+      "name": "好孩子婴儿床",
+      "brand": "好孩子",
+      "category": "其他",
+      "price_min": 699,
+      "price_max": 1299,
+      "platform": "京东"
+    },
+    {
+      "name": "可优比婴儿定型枕",
+      "brand": "可优比",
+      "category": "其他",
+      "price_min": 79,
+      "price_max": 139,
+      "platform": "抖音"
+    },
+    {
+      "name": "babycare防撞条",
+      "brand": "babycare",
+      "category": "其他",
+      "price_min": 29,
+      "price_max": 49,
+      "platform": "淘宝"
+    },
+    {
+      "name": "小白熊奶瓶消毒器",
+      "brand": "小白熊",
+      "category": "其他",
+      "price_min": 199,
+      "price_max": 329,
+      "platform": "京东"
+    },
+    {
+      "name": "ergobaby婴儿背带",
+      "brand": "ergobaby",
+      "category": "其他",
+      "price_min": 899,
+      "price_max": 1399,
+      "platform": "京东"
+    }
+  ]
+}

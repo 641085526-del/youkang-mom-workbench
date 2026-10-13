@@ -1,0 +1,564 @@
+{
+  "meta": {
+    "generated_at": "2026-10-10 12:50:52",
+    "generator": "crawl-platforms.py v1.0"
+  },
+  "douyin": {
+    "title": "实时上升热点",
+    "active_time": "2026-10-10 12:47:38",
+    "count": 49,
+    "items": [
+      {
+        "rank": 1,
+        "word": "苏州的秋天满城桂花香",
+        "hot_value": 12065706,
+        "sentence_id": "2687626"
+      },
+      {
+        "rank": 2,
+        "word": "警方通报“王皓被围堵辱骂”",
+        "hot_value": 11751758,
+        "sentence_id": "2688352"
+      },
+      {
+        "rank": 3,
+        "word": "六网交织托举起万家灯火",
+        "hot_value": 11094945,
+        "sentence_id": "2688291"
+      },
+      {
+        "rank": 4,
+        "word": "国庆特种兵结算画面",
+        "hot_value": 11054352,
+        "sentence_id": "2687782"
+      },
+      {
+        "rank": 5,
+        "word": "人为什么不能一辈子待在云南呢",
+        "hot_value": 10348331,
+        "sentence_id": "2688087"
+      },
+      {
+        "rank": 6,
+        "word": "秋冬摆脱路人感叠穿思路",
+        "hot_value": 9227728,
+        "sentence_id": "2687485"
+      },
+      {
+        "rank": 7,
+        "word": "怀念国庆在老家悠闲的日子",
+        "hot_value": 9049525,
+        "sentence_id": "2685725"
+      },
+      {
+        "rank": 8,
+        "word": "韩军试射5马赫导弹击中海上靶标",
+        "hot_value": 9000338,
+        "sentence_id": "2687329"
+      },
+      {
+        "rank": 9,
+        "word": "CBA季前赛山东逆转广东",
+        "hot_value": 8903393,
+        "sentence_id": "2688037"
+      },
+      {
+        "rank": 10,
+        "word": "宋佳获第35届飞天奖优秀女演员",
+        "hot_value": 8847802,
+        "sentence_id": "2688012"
+      },
+      {
+        "rank": 11,
+        "word": "第35届飞天奖获奖名单公布",
+        "hot_value": 8443170,
+        "sentence_id": "2688060"
+      },
+      {
+        "rank": 12,
+        "word": "韩乌外交风波如何收场",
+        "hot_value": 8355009,
+        "sentence_id": "2687399"
+      },
+      {
+        "rank": 13,
+        "word": "NBA中国赛火箭战胜独行侠",
+        "hot_value": 8240021,
+        "sentence_id": "2687979"
+      },
+      {
+        "rank": 14,
+        "word": "幸福在蔓延 爱你永恒不孤单",
+        "hot_value": 8132470,
+        "sentence_id": "2687896"
+      },
+      {
+        "rank": 15,
+        "word": "万物皆可低模人生",
+        "hot_value": 7748679,
+        "sentence_id": "2687442"
+      },
+      {
+        "rank": 16,
+        "word": "易梦玲美人余绑定了魅魔系统吧",
+        "hot_value": 7742933,
+        "sentence_id": "2687846"
+      },
+      {
+        "rank": 17,
+        "word": "生化危机这段BGM听着烧心",
+        "hot_value": 7702788,
+        "sentence_id": "2687660"
+      },
+      {
+        "rank": 18,
+        "word": "丞磊徐若晗新剧为爱发癫",
+        "hot_value": 7700202,
+        "sentence_id": "2687163"
+      },
+      {
+        "rank": 19,
+        "word": "此刻人闲桂花落彻底具象化了",
+        "hot_value": 7694221,
+        "sentence_id": "2687452"
+      },
+      {
+        "rank": 20,
+        "word": "能不能慢点冷 还没人牵我手",
+        "hot_value": 7691337,
+        "sentence_id": "2687278"
+      },
+      {
+        "rank": 21,
+        "word": "总结我的可可系长长长假",
+        "hot_value": 7684786,
+        "sentence_id": "2687126"
+      },
+      {
+        "rank": 22,
+        "word": "十月南京满城都是桂花香",
+        "hot_value": 7680913,
+        "sentence_id": "2687668"
+      },
+      {
+        "rank": 23,
+        "word": "跟着余红游山西",
+        "hot_value": 7679306,
+        "sentence_id": "2687407"
+      },
+      {
+        "rank": 24,
+        "word": "我有国庆假期戒断反应了",
+        "hot_value": 7677659,
+        "sentence_id": "2686873"
+      },
+      {
+        "rank": 25,
+        "word": "看看你拍的云顶天宫昌列寺",
+        "hot_value": 7668606,
+        "sentence_id": "2688094"
+      },
+      {
+        "rank": 26,
+        "word": "存档一些假期吃的漂亮饭",
+        "hot_value": 7666211,
+        "sentence_id": "2687162"
+      },
+      {
+        "rank": 27,
+        "word": "被甜瓜的生活vlog治愈",
+        "hot_value": 7666047,
+        "sentence_id": "2687837"
+      },
+      {
+        "rank": 28,
+        "word": "王仁君获飞天奖优秀男演员",
+        "hot_value": 7663636,
+        "sentence_id": "2688030"
+      },
+      {
+        "rank": 29,
+        "word": "严肃品鉴生化危机爆发夜",
+        "hot_value": 7662993,
+        "sentence_id": "2687836"
+      },
+      {
+        "rank": 30,
+        "word": "杜兰特赛后发抖音感谢粉丝",
+        "hot_value": 7662210,
+        "sentence_id": "2688085"
+      },
+      {
+        "rank": 31,
+        "word": "短剧如何持续精品化",
+        "hot_value": 7655760,
+        "sentence_id": "2686756"
+      },
+      {
+        "rank": 32,
+        "word": "神探之痕迹陈飞宇模仿秀",
+        "hot_value": 7653515,
+        "sentence_id": "2685770"
+      },
+      {
+        "rank": 33,
+        "word": "蓝盈莹不一样的长长长假",
+        "hot_value": 7650393,
+        "sentence_id": "2685614"
+      },
+      {
+        "rank": 34,
+        "word": "生化危机爆发夜后劲太大了",
+        "hot_value": 7650292,
+        "sentence_id": "2687904"
+      },
+      {
+        "rank": 35,
+        "word": "看余承恩手势舞不烧心",
+        "hot_value": 7649967,
+        "sentence_id": "2687841"
+      },
+      {
+        "rank": 36,
+        "word": "别对我太好 我讨厌落差感",
+        "hot_value": 7649087,
+        "sentence_id": "2687670"
+      },
+      {
+        "rank": 37,
+        "word": "现在才懂纯过日子假期的含金量",
+        "hot_value": 7648475,
+        "sentence_id": "2687499"
+      },
+      {
+        "rank": 38,
+        "word": "萌宠独自旅行实录",
+        "hot_value": 7646389,
+        "sentence_id": "2687149"
+      },
+      {
+        "rank": 39,
+        "word": "分享假期时我拍的旅行转场",
+        "hot_value": 7643797,
+        "sentence_id": "2686892"
+      },
+      {
+        "rank": 40,
+        "word": "来厦门打卡野有上秋",
+        "hot_value": 7641471,
+        "sentence_id": "2686832"
+      },
+      {
+        "rank": 41,
+        "word": "国庆假期不同人群分类盘点",
+        "hot_value": 7639914,
+        "sentence_id": "2687614"
+      },
+      {
+        "rank": 42,
+        "word": "王曼昱谈再战张本美和",
+        "hot_value": 7639675,
+        "sentence_id": "2687853"
+      },
+      {
+        "rank": 43,
+        "word": "不烧心的才适合纯过日子人",
+        "hot_value": 7639615,
+        "sentence_id": "2687034"
+      },
+      {
+        "rank": 44,
+        "word": "看大溪地绝美的玻璃巨浪",
+        "hot_value": 7636561,
+        "sentence_id": "2686046"
+      },
+      {
+        "rank": 45,
+        "word": "大学生国庆返校恨不得把家搬空",
+        "hot_value": 7631806,
+        "sentence_id": "2688120"
+      },
+      {
+        "rank": 46,
+        "word": "山西是我的旅行快乐老家",
+        "hot_value": 7630001,
+        "sentence_id": "2686572"
+      },
+      {
+        "rank": 47,
+        "word": "被湘潭剁椒鱼头香迷糊了",
+        "hot_value": 7627359,
+        "sentence_id": "2686115"
+      },
+      {
+        "rank": 48,
+        "word": "此处通往繁星开播",
+        "hot_value": 7624857,
+        "sentence_id": "2687230"
+      },
+      {
+        "rank": 49,
+        "word": "全员进入骑士小猫时代",
+        "hot_value": 7624180,
+        "sentence_id": "2685657"
+      }
+    ]
+  },
+  "kuaishou": {
+    "title": "快手热榜",
+    "active_time": null,
+    "count": 50,
+    "items": [
+      {
+        "rank": 0,
+        "word": "因地制宜推动县域经济高质量发展",
+        "hot_value": null
+      },
+      {
+        "rank": 1,
+        "word": "巴拿马地震暂无中方人员伤亡报告",
+        "hot_value": "1182.6万"
+      },
+      {
+        "rank": 2,
+        "word": "警方通报“王皓被围堵辱骂”",
+        "hot_value": "1182.1万"
+      },
+      {
+        "rank": 3,
+        "word": "国庆假期文旅市场表现亮眼",
+        "hot_value": "1181.9万"
+      },
+      {
+        "rank": 4,
+        "word": "直击巴拿马7.6级强震",
+        "hot_value": "1181.8万"
+      },
+      {
+        "rank": 5,
+        "word": "成都蓉城有望提前夺冠",
+        "hot_value": "1181.7万"
+      },
+      {
+        "rank": 6,
+        "word": "国庆特种兵结算画面",
+        "hot_value": "1181.7万"
+      },
+      {
+        "rank": 7,
+        "word": "中国花滑女单首次双晋级",
+        "hot_value": "1181.7万"
+      },
+      {
+        "rank": 8,
+        "word": "村民占道晒玉米被清扫车吸走",
+        "hot_value": "1181.6万"
+      },
+      {
+        "rank": 9,
+        "word": "成龙马云贝克汉姆卡特罕见同框",
+        "hot_value": "1160.9万"
+      },
+      {
+        "rank": 10,
+        "word": "真警察亮证对峙假警察",
+        "hot_value": "1138万"
+      },
+      {
+        "rank": 11,
+        "word": "西游打工人被骗 这次妖精不一般",
+        "hot_value": "1116.8万"
+      },
+      {
+        "rank": 12,
+        "word": "诈骗电话打到警察手机骗子破防了",
+        "hot_value": "1095.6万"
+      },
+      {
+        "rank": 13,
+        "word": "德比斯WSBK排位赛摔车排第17名",
+        "hot_value": "1075.3万"
+      },
+      {
+        "rank": 14,
+        "word": "阿联酋通报迪拜航空劫机事件",
+        "hot_value": "1035.3万"
+      },
+      {
+        "rank": 15,
+        "word": "内蒙金宝屯牛羊市火爆开集",
+        "hot_value": "1032.7万"
+      },
+      {
+        "rank": 16,
+        "word": "两名内地学生在澳门非法旅拍被捕",
+        "hot_value": "1029.9万"
+      },
+      {
+        "rank": 17,
+        "word": "心疼闫妮",
+        "hot_value": "1027.2万"
+      },
+      {
+        "rank": 18,
+        "word": "郑钦文赛后唱不怕",
+        "hot_value": "1022.1万"
+      },
+      {
+        "rank": 19,
+        "word": "赤峰退伍军人捐器官救4人",
+        "hot_value": "1019.9万"
+      },
+      {
+        "rank": 20,
+        "word": "冰墩墩返场了",
+        "hot_value": "1016.1万"
+      },
+      {
+        "rank": 21,
+        "word": "小孩误把结婚证当离婚证哭",
+        "hot_value": "1014.2万"
+      },
+      {
+        "rank": 22,
+        "word": "于和伟红毯步履蹒跚",
+        "hot_value": "1012.3万"
+      },
+      {
+        "rank": 23,
+        "word": "中国养老保险参保人数破10亿",
+        "hot_value": "1010.2万"
+      },
+      {
+        "rank": 24,
+        "word": "徐迟遭危房打击崩溃失聪",
+        "hot_value": "1007.8万"
+      },
+      {
+        "rank": 25,
+        "word": "女子仅退款399件涉诈骗罪被抓",
+        "hot_value": "1005.3万"
+      },
+      {
+        "rank": 26,
+        "word": "人社部谈有活没人干",
+        "hot_value": "1000.3万"
+      },
+      {
+        "rank": 27,
+        "word": "十五五拟投5万亿改造管网",
+        "hot_value": "997.8万"
+      },
+      {
+        "rank": 28,
+        "word": "马苏演娱乐圈女霸总踢走新人导演",
+        "hot_value": "992.8万"
+      },
+      {
+        "rank": 29,
+        "word": "南方管猪肘叫什么",
+        "hot_value": "990万"
+      },
+      {
+        "rank": 30,
+        "word": "大头圆圆家开始准备冬储肉了",
+        "hot_value": "986.3万"
+      },
+      {
+        "rank": 31,
+        "word": "内娱有三位一串三演员",
+        "hot_value": "982.6万"
+      },
+      {
+        "rank": 32,
+        "word": "美俄达成柴油协议",
+        "hot_value": "980.1万"
+      },
+      {
+        "rank": 33,
+        "word": "女子仅退款蜜薯商家驱车上门取回",
+        "hot_value": "977.8万"
+      },
+      {
+        "rank": 34,
+        "word": "黄金拉升逼近4200美元",
+        "hot_value": "975.5万"
+      },
+      {
+        "rank": 35,
+        "word": "盛家的儿女一个比一个争气",
+        "hot_value": "973.3万"
+      },
+      {
+        "rank": 36,
+        "word": "外宾赞洛阳是世界历史象征",
+        "hot_value": "971.1万"
+      },
+      {
+        "rank": 37,
+        "word": "距加油站20米没油车主花350拖车",
+        "hot_value": "968.6万"
+      },
+      {
+        "rank": 38,
+        "word": "望奎双汇猪肉抗生素超标被查",
+        "hot_value": "966.2万"
+      },
+      {
+        "rank": 39,
+        "word": "警方无人机抓获电诈车手",
+        "hot_value": "961.6万"
+      },
+      {
+        "rank": 40,
+        "word": "乌总统称遭美俄背叛",
+        "hot_value": "959.5万"
+      },
+      {
+        "rank": 41,
+        "word": "哈工大获批首个空天博士点",
+        "hot_value": "956.9万"
+      },
+      {
+        "rank": 42,
+        "word": "胡塞大举南下也门失守",
+        "hot_value": "954.9万"
+      },
+      {
+        "rank": 43,
+        "word": "于和伟万茜二搭演夫妻",
+        "hot_value": "952.2万"
+      },
+      {
+        "rank": 44,
+        "word": "猪八戒马德华回武城献唱",
+        "hot_value": "949.5万"
+      },
+      {
+        "rank": 45,
+        "word": "谁在喵喵喵",
+        "hot_value": "947.3万"
+      },
+      {
+        "rank": 46,
+        "word": "江南又梦烟雨太适配古风了",
+        "hot_value": "942.6万"
+      },
+      {
+        "rank": 47,
+        "word": "山西一医院保胎药错发成引产药",
+        "hot_value": "940.1万"
+      },
+      {
+        "rank": 48,
+        "word": "暖冬与强寒潮并不矛盾",
+        "hot_value": "937.4万"
+      },
+      {
+        "rank": 49,
+        "word": "尼日利亚一中国公民遇害",
+        "hot_value": "935.8万"
+      }
+    ]
+  }
+}
